@@ -5,11 +5,13 @@ body {
 p{
 font-family: Arial;
   color: white;
+  font-size: 155px;
   text-align: center;
 }
 h3{
   font-family: Helvetica;
   color: white;
-  text-align: left;
+  font-size: 100px;
+  text-align: center;
 }
 
