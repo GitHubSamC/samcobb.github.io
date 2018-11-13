@@ -1,13 +1,13 @@
 body {
-  background: #141E30;
+  background: blue;
 }
 
 p{
 font-family: Arial;
-  color: purple;
+  color: yellow;
 }
 h3{
   font-family: Helvetica;
-  color: black;
+  color: yellow;
 }
 
