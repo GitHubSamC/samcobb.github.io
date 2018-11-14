@@ -1,8 +1,7 @@
 body {
-  background: CornflowerBlue;
+  background: #f5fffa;
   background-image: url('https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png')
 }
-
 p{
 font-family: Arial;
   color: white;
